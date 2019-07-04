@@ -13,3 +13,5 @@
 ![SulComp_IX-1](https://user-images.githubusercontent.com/32443720/60689325-9f81ab80-9e92-11e9-9767-0e6c3a9d2b87.png)
 
 ![terminar_linux-1](https://user-images.githubusercontent.com/32443720/60689326-a3153280-9e92-11e9-9d6f-27f6f198b20c.png)
+
+![Blast_Ferramenta_de_alinhamento_locais_de_sequencia-1](https://user-images.githubusercontent.com/32443720/60689667-41ef5e00-9e96-11e9-9754-5e42b722679d.png)
