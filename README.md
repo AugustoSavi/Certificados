@@ -1,5 +1,9 @@
 <h1> Certificados </h1>
 
+![2019 M09 D11 - Declaração de Participação em Evento_page-0001](https://user-images.githubusercontent.com/32443720/99002746-afe07680-251b-11eb-90a9-36defb974e0e.jpg)
+
+![2019 M06 D26 - Declaração de Participação em Evento (1)_page-0001](https://user-images.githubusercontent.com/32443720/99002749-b242d080-251b-11eb-948c-e7fd45266e5f.jpg)
+
 ![image](https://user-images.githubusercontent.com/32443720/99002301-f5507400-251a-11eb-9ea0-0edad892748f.png)
 
 ![Introducao_a_linguagem_JavaScript-1](https://user-images.githubusercontent.com/32443720/60689289-35690680-9e92-11e9-9069-9f0d88ab8e5e.png)
